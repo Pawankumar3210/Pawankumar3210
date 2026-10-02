@@ -71,4 +71,6 @@
 <a href="https://www.linkedin.com/in/pawan-kumar-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:pawankumarg881156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Stay+curious%2C+build+fearlessly%2C+and+never+stop+learning%21+%E2%9C%A8&textBg=false&fontSize=25&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=49" />
+
 </div>
