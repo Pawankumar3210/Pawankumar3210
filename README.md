@@ -90,35 +90,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar3210&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
 
 </div>
-
----
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
-
-</div>
-
----
-
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>⭐️ From [Pawankumar3210](https://github.com/Pawankumar3210) · Built with [ProfileForge](https://profileforge-readme.vercel.app/)</sub>
-
-</div>
