@@ -1,5 +1,13 @@
 <h1 align="center">Hello World! I'm Pawan Kumar G</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Per Aspera Ad Astra! ✨</h3>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Pawankumar3210"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=29&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB%3BOpen+Source+Enthusiast+%F0%9F%8C%B1%3BAlways+learning+something+new+%F0%9F%9A%80" alt="typing banner" /></a>
+
+</div>
 
 ---
 
@@ -47,19 +55,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pawankumar3210&theme=algolia&column=7&margin_w=4&margin_h=4&no_bg=false" alt="trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/Pawankumar3210"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=31&duration=4000&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB%3BOpen+Source+Enthusiast+%F0%9F%8C%B1%3BAlways+learning+something+new+%F0%9F%9A%80" alt="typing banner" /></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="dev quote" />
 
 </div>
 
@@ -77,22 +75,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="dev quote" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar3210&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
-
-</div>
-
----
-
 ## 👾 Pac-Man Contribution Graph
 
 <div align="center">
@@ -101,20 +83,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
-</picture>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake.svg" />
 </picture>
 
 </div>
