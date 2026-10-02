@@ -31,33 +31,25 @@
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Pawankumar3210&label=Profile+Views&color=00aeff&style=flat" alt="profile views" />&nbsp;&nbsp;<a href="https://github.com/Pawankumar3210?tab=followers"><img src="https://img.shields.io/github/followers/Pawankumar3210?label=Followers&style=social" alt="followers" /></a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Pawankumar3210&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=Pawankumar3210&theme=algolia&hide_border=true" alt="streak stats" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar3210&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="top languages" /></td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pawankumar3210&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Pawankumar3210&theme=algolia&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar3210&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pawankumar3210&label=Profile+Views&color=00aeff&style=flat-square" alt="profile views" />&nbsp;&nbsp;<a href="https://github.com/Pawankumar3210?tab=followers"><img src="https://img.shields.io/github/followers/Pawankumar3210?label=Followers&style=flat-square&color=00aeff" alt="followers" /></a>
 
 </div>
 
@@ -65,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="dev quote" />
 
 </div>
 
@@ -75,37 +67,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Pawankumar3210" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/pawan-kumar-g/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:pawankumarg881156@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
-
-## 👾 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
-  />
-</picture>
+<a href="https://github.com/Pawankumar3210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/pawan-kumar-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pawankumarg881156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
