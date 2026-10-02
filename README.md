@@ -13,18 +13,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Pawankumar3210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/pawan-kumar-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:pawankumarg881156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -77,6 +65,18 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Pawankumar3210" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/pawan-kumar-g/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pawankumarg881156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="dev quote" />
@@ -88,5 +88,33 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar3210&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/pacman-contribution-graph.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Pawankumar3210/Pawankumar3210/output/github-snake.svg" />
+</picture>
 
 </div>
