@@ -17,7 +17,7 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="22" height="22" /> I'm currently learning **new technologies**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="👯" width="22" height="22" /> I'm looking to collaborate on **open source projects**
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="💬" width="22" height="22" /> Ask me about **web development**
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="22" height="22" /> Fun fact: I love building things people use
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="22" height="22" /> Fun fact: I love building things people use!
 
 ---
 
